@@ -1,0 +1,83 @@
+[
+  {
+    "id" : 1,
+    "name" : "story book",
+    "price" : 0,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "free",
+    "imgUrl" : "/cardImg.jpg"
+  },
+  
+  {
+    "id" : 2,
+    "name" : "entertainment book",
+    "price" : 50,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "entertianment",
+    "imgUrl" : "/cardImg.jpg"
+  },
+  
+  {
+    "id" : 3,
+    "name" : "politics book",
+    "price" : 70,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "politics",
+    "imgUrl" : "/cardImg.jpg"
+  },
+  
+  {
+    "id" : 4,
+    "name" : "jokes book",
+    "price" : 0,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "free",
+    "imgUrl" : "/cardImg.jpg"
+  },
+  
+  {
+    "id" : 5,
+    "name" : "sport book",
+    "price" : 80,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "free",
+    "imgUrl" : "/cardImg.jpg"
+  },
+  
+  {
+    "id" : 6,
+    "name" : "startup book",
+    "price" : 200,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "startup",
+    "imgUrl" : "/cardImg.jpg"
+  },
+  
+  {
+    "id" : 7,
+    "name" : "cultural book",
+    "price" : 0,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "free",
+    "imgUrl" : "/cardImg.jpg"
+  },
+  
+  {
+    "id" : 8,
+    "name" : "comedy book",
+    "price" : 0,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "free",
+    "imgUrl" : "/cardImg.jpg"
+  },
+  
+  {
+    "id" : 9,
+    "name" : "nature book",
+    "price" : 100,
+    "context" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit",
+    "category" : "free",
+    "imgUrl" : "/cardImg.jpg"
+  }
+
+]
